@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- saved from url=(0026)http://www.rshah.org/blog/ -->
+<!-- saved from url=(0026)http://www.arvindiyer.xyz/blog/ -->
 <html lang="en-us"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <link href="http://gmpg.org/xfn/11" rel="profile">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -9,9 +9,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
   <title>
-    
-      Rushi Shah · ¯\_(ツ)_/¯
-    
+    Arvind Iyer 
   </title>
 
   <!-- CSS -->
@@ -40,20 +38,20 @@
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
       
-      <img class="prof-pic" src="./index_files/prof-pic4.jpg">
+      <img class="prof-pic" src="./index_files/prof-pic.jpg">
       <h1 class="site-title">
-        <a href="http://www.rshah.org/blog/">
-          Rushi Shah
+        <a href="http://www.arvindiyer.xyz/blog/">
+          Arvind Iyer
         </a>
       </h1>
-      <p class="lead">Java, Python, JavaScript, Ruby, and Haskell enthusiast.</p>
+      <p class="lead">Robotics, hardware and scripting enthusiast</p>
     </div>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item" href="http://www.rshah.org/blog/">Blog Home</a>
-      <a class="sidebar-nav-item" href="http://www.rshah.org/">About</a>
-      <a class="sidebar-nav-item" href="https://twitter.com/2016rshah">Twitter</a>
-      <a class="sidebar-nav-item" href="https://github.com/2016rshah">GitHub</a>
+      <a class="sidebar-nav-item" href="http://www.arvindiyer.xyz/blog/">Blog</a>
+      <a class="sidebar-nav-item" href="http://www.arvindiyer.xyz/">About</a>
+      <a class="sidebar-nav-item" href="https://twitter.com/Korpiklooney">Twitter</a>
+      <a class="sidebar-nav-item" href="https://github.com/arvind-iyer">GitHub</a>
     </nav>
   </div>
 </div>
@@ -65,7 +63,7 @@
       </div>
       <footer>  
       <hr> 
-      Powered by <a href="https://github.com/2016rshah/Heckle">Heckle</a>.    
+      Powered by <a href="https://github.com/arvind-iyer/Heckle">Heckle</a>.    
       </footer>
     </div>
 
